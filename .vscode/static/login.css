@@ -1,0 +1,45 @@
+body {
+  background: #ffe6e6;
+  font-family: Arial, sans-serif;
+}
+
+.login-container {
+  width: 400px;
+  margin: 100px auto;
+  background: #fff;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 0 12px #aaa;
+  text-align: center;
+}
+
+h1 {
+  color: #cc0000;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  margin: 14px 0;
+}
+
+button {
+  background: #cc0000;
+  color: #fff;
+  border: none;
+  padding: 14px 24px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #990000;
+}
+
+a {
+  color: #cc0000;
+}
+
+.error {
+  color: red;
+}
